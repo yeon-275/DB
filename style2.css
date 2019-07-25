@@ -10,16 +10,16 @@ img{
 }
 .b{
   position: absolute;
-  left: 15px;
+  left: 20px;
   top: 15px;
 
 }
 .ipsum{
-  font-size: 10px;
-  width: 700px;
+  font-size: 13px;
+  width: 850px;
   font-family: helvetica sans-serif;
   position: absolute;
-  bottom: 120px;
+  top: 450px;
   left: 40px;
 }
 .title{
@@ -31,7 +31,7 @@ img{
 
 .title3{
   position: absolute;
-  top: 120px;
+  top: 130px;
   font-size: 30px;
   left: 40px;
 }
