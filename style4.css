@@ -1,0 +1,46 @@
+.text{
+  font-family: 'Arial Black'
+}
+
+.red{
+  color: #c02425
+}
+.title{
+  font-size: 120px;
+  position: absolute;
+  top: 10px;
+  left: -40px;
+}
+.lorem{
+  position: absolute;
+  top: 300px;
+}
+.DB{
+  position: absolute;
+  bottom: 10px;
+  right: 40px;
+}
+.Dont{
+  position: absolute;
+  bottom: 10px;
+  left: 40px;
+}
+img{
+  position: absolute;
+}
+
+.a{
+  width: 700px;
+  position: absolute;
+  top: 100px
+  left: 1000px;
+  padding: 0px;
+}
+
+.b{
+  width: 700px;
+  position: absolute;
+  top: 120px;
+  right: 10px;
+  padding: 0px;
+}

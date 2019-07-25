@@ -1,0 +1,29 @@
+.text{
+  font-family: 'Arial black'
+}
+
+.DB{
+  color: red;
+}
+img{
+  width: 800px;
+  position: absolute;
+  top: 50px;
+  left: 100px;
+}
+
+.white{
+  position: absolute;
+  top: 240px;
+  left: 450px;
+}
+
+.red{
+  color:red;
+}
+.title1{
+  position: absolute;
+  font-size: 130px;
+  top: 0px;
+  left: 20px;
+}
