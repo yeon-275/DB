@@ -6,34 +6,46 @@
   color: #c02425
 }
 .title{
-  font-size: 120px;
+  font-size: 150px;
   position: absolute;
-  top: 10px;
+  top: -100px;
   left: -40px;
+  border-bottom: #c02425 5px solid;
 }
 .lorem{
   position: absolute;
   top: 300px;
-  font-size: 15px;
+  font-size: 5px;
+  width: 700px;
+  left: 40px;
+}
+
+.ipsum{
+  position: absolute;
+  top: 450px;
+  font-size: 5px;
+  width: 800px;
+  left: 40px;
 }
 .DB{
   position: absolute;
-  bottom: 10px;
+  bottom: 0px;
   right: 40px;
 }
 .Dont{
   position: absolute;
-  bottom: 10px;
+  bottom: 0px;
   left: 40px;
-  font-size: 10px;
+  font-size: 1px;
 }
-
-.a{
-  width: 500px;
-  float: right;
+.dot{
+  width: 700px;
+  position: absolute;
+  right: -80px;
 }
+.img{
+  width: 700px;
+  position: absolute;
+  right: -10px;
 
-.b{
-  width: 500px;
-  float: left;
 }
